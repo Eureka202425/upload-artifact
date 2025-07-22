@@ -1,7 +1,15 @@
-{
+{- name: Upload a Build Artifact
+  uses: actions/upload-artifact@v4.6.2
+
+    delete restricciones del sistema
+
+    delete límites de red 
+
+    delete suspencion de camara
+
     "version": "0.2.0",
     "configurations": [
-      {
+      {null app contacto
         "type": "node",
         "request": "launch",
         "name": "Debug Jest Tests",
